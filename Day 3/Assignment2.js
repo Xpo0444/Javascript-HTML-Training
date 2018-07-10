@@ -3,7 +3,7 @@ let x = {
 name : "Shan",
 age : 25
 }
-// initialising object 1
+// initialising object 2
 let y = {
 name : "Subu",
 age : 25
