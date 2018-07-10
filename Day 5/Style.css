@@ -1,0 +1,31 @@
+#squareDiv{
+    height: 3px;
+    width: 3px;
+    position: absolute;
+    background:black;
+    margin-top:24.7%;
+    margin-left:50.5%;
+    bottom: 350px;
+    left:1px;
+}
+#Vertical_axis
+{
+    width:1px;
+    height:75%;
+    position: absolute;
+    display: inline;
+    background: black;
+    margin-top: 6.75%;  
+    margin-left:50%;
+}
+
+#horizontal_axis
+{
+    height: 1px;
+    width:52%;
+    position: absolute;
+    display:inline;
+    background: black;
+    margin-top: 25%;
+    margin-left:25%
+}
