@@ -1,0 +1,13 @@
+#loadBar{
+    width : 100%;
+    background-color: azure;
+}
+
+#progressBar{
+    width : 10%;
+    height : 30px;
+    background-color: #12abe7;
+    text-align: center;
+    line-height: 30px;
+    color: whitesmoke
+}
