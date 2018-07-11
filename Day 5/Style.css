@@ -1,14 +1,4 @@
-#squareDiv{
-    height: 3px;
-    width: 3px;
-    position: absolute;
-    background:black;
-    margin-top:24.7%;
-    margin-left:50.5%;
-    bottom: 350px;
-    left:1px;
-}
-#Vertical_axis
+#vertical_axis
 {
     width:1px;
     height:75%;
@@ -28,4 +18,14 @@
     background: black;
     margin-top: 25%;
     margin-left:25%
+}
+#squareDiv{
+    height: 3px;
+    width: 3px;
+    position: absolute;
+    background:black;
+    margin-top:24.7%;
+    margin-left:50.5%;
+    bottom: 350px;
+    left:1px;
 }
